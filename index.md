@@ -542,7 +542,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Germán Poo-Caamaño (GNOME)
 1. Gertjan Lettink a.k.a. Knurpht
 1. Gina Häußge (OctoPrint maintainer)
-1. Gina Likins (Red Hat)
 1. Giovanni Campagna (former GNOME contributor)
 1. Gökay Şatır (Collabora)
 1. Giuseppe Lavagetto
@@ -645,7 +644,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jason Crain (GNOME)
 1. Jason DeTiberus (@detiber)
 1. Jason Griffey
-1. Jason Harley
 1. Jason LACAM (open-source and free software defender)
 1. Jason Robinson
 1. Jassie Badion (Collabora)
@@ -1060,6 +1058,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Orhun Parmaksız (Arch Linux maintainer)
 1. Orion Montoya (former rms-assist, former FSF, GPLv3 drafting-process software developer)
 1. Otavio Salvador (former FSF associate member, former Debian Installer Release Manager)
+1. Owen Anderson
 1. Øystein Øverng
 1. Pablo Costas Sánchez
 1. Pablo Martín Oldani
@@ -1090,7 +1089,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
-1. Paweł Krupa
 1. Peder Bergebakken Sundt
 1. Pedro Cambra (Archipelago Repository Project, Software Developer and Open Source Contributor)
 1. Pedro Cunha
